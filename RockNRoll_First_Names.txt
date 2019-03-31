@@ -1,7 +1,6 @@
 General
 President
 Commander
-Conductor 
 Captain
 Lord
 Bishop
