@@ -1,16 +1,13 @@
-Rock N Roll Family First names
-
 General
 President
 Commander
 Conductor 
-Prisident 
 Captain
 Lord
 Bishop
 Grand Master
 King
-Quene
+Queen
 Mayor
 Professor 
 Reverend 
@@ -19,7 +16,6 @@ Shaman
 Sultan
 Prince
 Princess
-Prince
 Duke
 Barron
 Commissioner
